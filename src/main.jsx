@@ -1,9 +1,6 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 
-// eslint-disable-next-line react-refresh/only-export-components
 const DATA = [
   { id: "todo-0", name: "Проверить Домашки", completed: true },
   { id: "todo-1", name: "Поставить 4", completed: false },
