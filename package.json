@@ -2,7 +2,7 @@
   "name": "moz-todo-react",
   "version": "0.3.0",
   "private": true,
-  "homepage": "/DZ_React/",
+  "homepage": "/DZ_React",
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000 --open",
