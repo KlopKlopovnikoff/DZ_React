@@ -1,7 +1,7 @@
 {
   "name": "moz-todo-react",
   "version": "0.3.0",
-  "private": true,
+  "private": false,
   "homepage": "https://KlopKlopovnikoff.github.io/DZ_React/",
   "type": "module",
   "scripts": {
